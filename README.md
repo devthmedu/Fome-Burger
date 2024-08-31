@@ -1,5 +1,7 @@
 # Fome Burguer
 
+![Fome Burguer](https://github.com/user-attachments/assets/e628ca89-c502-4412-baf6-5a8f3a6a7890)
+
 Bem-vindo ao repositório do **Fome Burguer**, um sistema de cardápio online para uma hamburgueria que facilita a visualização e a compra de deliciosos hambúrgueres e bebidas. Este README fornece uma visão geral das funcionalidades e características principais do projeto.
 
 ## Funcionalidades
