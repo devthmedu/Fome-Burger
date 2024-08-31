@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        home: "url('/assets/banner10.jpg')", // Corrigido para fechar a string da URL da imagem
+        home: "url('/assets/BANNER.png')", // Corrigido para fechar a string da URL da imagem
       },
     },
   },
